@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(230, 255, 247);
+}
+
+.nav-bar{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.inicio{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 15px;
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 2%;
+    color: white;
+}
+
+.foto-info{
+    background-size: cover;
+}
+
+.paneles{
+    padding-top: 15px;
+
+}
+
+.adog-tame{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 15px;
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 2%;
+    color: white;
+}
